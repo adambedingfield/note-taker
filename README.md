@@ -10,7 +10,7 @@ Note Taker is a simple yet effective note taking website. The user inputs a note
 ## Layout<br>
 Upon viewing the site, the user is brought to a homepage as shown below.
 ![homepage](./img/homepage.png)<br>
-After clicking "Get Started", the user is then brought to the note page. The left side houses the notes column and the right is where notes are input.
+After clicking "Get Started", the user is then brought to the note page. The left side houses the notes column and the right is where notes are input. Clicking on each note title will display its content on the right.
 ![notepage](./img/notepage.png)
 ## Features<br>
 The note input section includes a note title and description, when users are finished with their note a save icon on the right will appear. Clicking this will save the note to the column.
